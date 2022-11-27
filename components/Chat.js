@@ -5,6 +5,7 @@ import { GiftedChat, Bubble } from 'react-native-gifted-chat';
 import firebase from "firebase/compat/app"
 import 'firebase/firestore';
 
+
 // const firebase = require('firebase');
 // require('firebase/firestore');
 
